@@ -96,6 +96,6 @@ function genWord() {
                     span.appendChild(spanText);
                     finishMessage.appendChild(span);
                 }
-            }
+            } 
         }, 1000);
     }
